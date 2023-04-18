@@ -61,3 +61,7 @@ This challenge required a page visual. These features were used to maximise data
 •	The top 5 companies to work with are Grant Thornton, LAC-Group, Flatiron Health, Bill and Melinda Gates Foundation,Hewlett Packard Enterprise
 
 
+
+Feel free to interract with my dashboard https://www.novypro.com/project/maven-family-leave-challenge-2
+
+Connect with me on Linkedin https://www.linkedin.com/in/uduak-njoku
