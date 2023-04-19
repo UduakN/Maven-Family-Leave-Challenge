@@ -42,7 +42,7 @@ This challenge required a page visual. These features were used to maximise data
 
 # Data Visualization
 
-![image](https://user-images.githubusercontent.com/128192166/232911284-91c852c2-0de5-4915-adc2-edec34ae99f6.png)
+![image](https://user-images.githubusercontent.com/128192166/233204850-bf38fb12-5c5c-41c4-ac05-43fb297c52d0.png)
 
 
 # Findings Summary
